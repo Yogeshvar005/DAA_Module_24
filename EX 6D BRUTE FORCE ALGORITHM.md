@@ -1,5 +1,5 @@
 # EX 6D BRUTE FORCE ALGORITHM
-## DATE:10.05.2025
+## DATE:
 ## AIM:
 To write a python program using brute force method of searching for the given substring in the main string.
 
